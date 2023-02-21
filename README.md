@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeiel</h1>
 <h3 align="center">A former physiotherapy student who fell in love with programming</h3>
 
-- 🔭 I’m currently working on **projeto pessoal**
+- 🔭 I’m currently working on **personal projects**
 
 - 🌱 I’m currently learning **Swift**
 
