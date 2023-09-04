@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift, HTML, CSS, Javascript**
 
-- 👯 I’m looking to collaborate on **Swift/iOS Projects**
+- 👯 I’m looking to collaborate on **Swift/iOS, Front-End Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jeiellima/dev-portfolio](https://github.com/jeiellima/dev-portfolio)
 
