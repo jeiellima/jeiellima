@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Swift/iOS, Front-End Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jeiellima/dev-portfolio](https://github.com/jeiellima/dev-portfolio)
-
 - 📫 How to reach me **jeiel.lima1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
