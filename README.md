@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift, HTML, CSS, Javascript**
 
-- 👯 I’m looking to collaborate on **Swift/iOS, Front-End Projects**
+- 👯 I’m looking to collaborate on **Swift/Flutter, Front-End Projects**
 
 - 📫 How to reach me **jeiel.lima1@gmail.com**
 
